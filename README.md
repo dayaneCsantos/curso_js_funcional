@@ -1,5 +1,7 @@
 # curso_js_funcional
 
+# Lembretes
+
 * git remote add origin https://github.com/dayaneCsantos/curso_js_funcional.git
 ** cria um novo controle remoto chamado origin, localizado em https...
 * git push -u origin main
