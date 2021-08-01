@@ -26,7 +26,7 @@ const carrinho = [
 // const verificarPreco = carrinho.map(getPreco)
 // console.log(verificarPreco)
 
-// Exemplo do que acontece por baixo dos panos no ao utilizar .map
+// Exemplo do que acontece por baixo dos panos ao utilizar .map
 Array.prototype.meuMap = function (fn) {
   const novoArray = []
   for (let i = 0; i < this.length; i++) {
