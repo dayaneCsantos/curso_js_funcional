@@ -16,4 +16,3 @@ lerArquivos(caminho)
   // .then(conteudo => conteudo.split('\n'))
   // .then(linhas => console.log(linhas.length))
   .then(conteudo => console.log(conteudo))
-  
